@@ -7,4 +7,4 @@ Then execute : python main.py
 
 For further informations :
 Léo blanca - leo.blanca@etu.univ-amu.fr
-Loréna Quatreville - xxx
+Loréna Quatreville - lorena.quatreville@etu.univ-amu.fr
